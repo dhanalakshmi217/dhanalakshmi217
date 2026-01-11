@@ -55,6 +55,6 @@
 
 ---
 
-!## 📫 Connect with Me
-- 🔗 GitHub: https://github.com/YOUR-USERNAME
-- 💼 LinkedIn: Coming soon!
+## 📫 Connect with Me
+- 🔗 GitHub: https://github.com/dhanalakshmi217
+- 💼 LinkedIn: https://www.linkedin.com/in/dhanalakshmi-n-63809937a/
