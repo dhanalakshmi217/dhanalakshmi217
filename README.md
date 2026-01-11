@@ -1,7 +1,7 @@
 # Hi 👋 I'm Dhanalakshmi
 
 🎓 Data Science Student  
-🐍 Python | Machine Learning | Data Analysis  
+🐍 Python | Machine Learning | Data Analysis | Data Scientist  
 💡 Passionate about building real-world, AI-driven projects  
 
 ---
