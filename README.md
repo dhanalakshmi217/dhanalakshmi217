@@ -33,25 +33,17 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Project Portfolio
+
 
  📊 **Data Science & Machine Learning**
-- 🔹 **BMI Calculator (Streamlit)**  
-  A simple web app to calculate Body Mass Index using Python & Streamlit.
 
-- 🔹 **DBSCAN Clustering Project**  
-  Unsupervised machine learning project using DBSCAN on real-world data.
+- 🔹 **[DBSCAN Clustering Project](https://github.com/dhanalakshmi217/DBScan_Project)**  
+🔹Unsupervised machine learning project implementing DBSCAN clustering to   identify patterns and noise in data.  
+🔹Built with Python and deployed as an interactive Streamlit web         application.
 
-- 🔹 **Decision Tree Movie Recommendation App**  
-  Movie recommendation system built using Decision Tree algorithm.
+  🚀 **Live Demo:** https://dhana-dbscanproject.streamlit.app/
 
-** 👁️ Computer Vision**
-- 🔹 **Virtual Try-On System**  
-  AI-based fashion try-on application using Computer Vision techniques.
-
-### 🌐 Web Applications
-- 🔹 **Password Generator**  
-  Secure random password generator using Python.
 
 ---
 
